@@ -1,6 +1,7 @@
-package hackerrank.com.desafios.arraySum;
+package hackerrank.com.desafios.algorithms.arraySum;
 
 import java.util.List;
+//Link Challeng: https://www.hackerrank.com/challenges/simple-array-sum/problem
 
 public class Main {
     public static void main(String[] args) {

@@ -1,8 +1,9 @@
-package hackerrank.com.desafios.arraySum;
+package hackerrank.com.desafios.algorithms.arraySum;
 
 import java.util.List;
 
 public class arraySum {
+
 
     public int sumArray(List<Integer> ar)
     {
