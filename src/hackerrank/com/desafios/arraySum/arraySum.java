@@ -1,4 +1,4 @@
-package hackerrank.com.desafios.algorithms.arraySum;
+package hackerrank.com.desafios.arraySum;
 
 import java.util.List;
 

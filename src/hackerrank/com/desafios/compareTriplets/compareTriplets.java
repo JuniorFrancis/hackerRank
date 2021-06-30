@@ -1,4 +1,4 @@
-package hackerrank.com.desafios.algorithms.compareTriplets;
+package hackerrank.com.desafios.compareTriplets;
 
 import java.util.List;
 //Link Challenge: https://www.hackerrank.com/challenges/compare-the-triplets/problem

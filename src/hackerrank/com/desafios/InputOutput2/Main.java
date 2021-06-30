@@ -1,4 +1,4 @@
-package hackerrank.com.desafios.java.InputOutput2;
+package hackerrank.com.desafios.InputOutput2;
 
 import java.util.Scanner;
 

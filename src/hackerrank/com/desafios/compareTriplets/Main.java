@@ -1,4 +1,4 @@
-package hackerrank.com.desafios.algorithms.compareTriplets;
+package hackerrank.com.desafios.compareTriplets;
 
 import java.util.List;
 

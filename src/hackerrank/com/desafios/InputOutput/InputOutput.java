@@ -1,4 +1,4 @@
-package hackerrank.com.desafios.java.InputOutput;
+package hackerrank.com.desafios.InputOutput;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package hackerrank.com.desafios.java.IfElseTest;
+package hackerrank.com.desafios.IfElseTest;
 
 public class analyzeNumber {
     public void analyzeNumber(int n)
